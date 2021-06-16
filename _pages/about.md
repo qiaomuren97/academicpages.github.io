@@ -19,12 +19,15 @@ Education
 * **M.Eng. in Pattern Recognition**, [Southeast University](https://www.seu.edu.cn), 2022 (expected) 
   * Courses:
   	* Database(95), Artificial Intelligence(94), Neural Network and Machine Learning(94)
-    * Grade: 92.23, rank: 10/135
+    * Grade: 92.23, **rank: 10/135**
   * Microsoft Student Club, Southeast University
     * Vice President, Jun. 2020 - Jun. 2021 
     * Member, Oct. 2019 - Jun. 2020
 
 * **B.Eng. in Electronic Information Science and Technology**, [Nanjing Agricultural University](http://www.njau.edu.cn), 2019
+  * Courses:
+  	*  Digital Image Processing(100), Microwave Technology and Antennas(100), Principle & Application of Microcom-puter(99), Digital Signal Processing(98), Signals and Systems(98)
+    * Grade: 90.73/100, **rank: 4/109**
   * Thesis: **3D Reconstruction of Animal from a Single RGB Image**   
     * Outstanding Undergraduate Thesis Award, Nanjing Agricultural University
   * Big Data Lab
@@ -33,26 +36,23 @@ Education
   * Embedded IoT Innovation Studio
     * Technical Director, Jun. 2017 - Jun. 2018
     * Member, Sep. 2015 - Jun. 2017
-  * Courses:
-  	*  Digital Image Processing(100), Microwave Technology and Antennas(100), Principle & Application of Microcom-puter(99), Digital Signal Processing(98), Signals and Systems(98)
-    * Grade: 90.73/100, Rank: 4/109
   * Admitted to Southeast University without examinations, Rank: 1/109
 
 
 Experience
 ------
-* Vision and Cognition Lab, Southeast University (April. 2018 - Now)
+* **Vision and Cognition Lab**, Southeast University (April. 2018 - Now)
   * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com)
   * Research on Computer Graphics and Computer Vision
     * **3D Reconstruction**, especially single-view methods
     * **Hair Modeling and Rendering [1]**
-* SeetaTech (May. 2019 - Aug. 2019)
+* **SeetaTech** (May. 2019 - Aug. 2019)
   * Research on computer vision, especially object detection and tracking
   * Deployed algorithms on hardware, such as smart containers in retail scenarios
-* Institute of Cognitive Intelligence, Southeast University (May. 2017 - Sep. 2017)
+* **Institute of Cognitive Intelligence**, Southeast University (May. 2017 - Sep. 2017)
   * Under the supervision of [Prof. Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm) and Dr. Yuncheng Hua
   * Research on Knowledge Graph and Question Answering System
-* Big Data Lab, Nanjing Agricultural University (Jun.2016 - Aug. 2019)
+* **Big Data Lab**, Nanjing Agricultural University (Jun.2016 - Aug. 2019)
   * Under the supervision of [Prof. Xiuguo Zou](http://ai.njau.edu.cn/info/1059/1172.htm)
   * Research on machine learining and its applications in agriculture [2] and power system [3]
   * Led the machine learning group and undergraduate group of the lab from Jun. 2017
