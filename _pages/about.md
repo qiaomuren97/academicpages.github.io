@@ -30,7 +30,7 @@ Experience
 * April, 2017 - April, 2018
   * College of Engineering, Nanjing Agricultural University
   * Research on SLAM applied to Agricultue
-  * Supervisor: [Prof. Xiangze Lin](http://www.pk.njau.edu.cn/info/1182/3234.htm)
+  * Supervisor: [Prof. Xiangze Lin](http://ai.njau.edu.cn/info/1055/1158.htm#)
 
 * July, 2016 - August, 2019:
   * Big Data Lab, College of Engineering, Nanjing Agricultural University
