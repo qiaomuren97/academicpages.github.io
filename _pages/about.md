@@ -9,13 +9,13 @@ redirect_from:
 ---
 I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei. My research interests are **Computer Graphics and Computer Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. 
 
-My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (8.5k followers). I have created 50+ graphics/vision-related notes and answers with 610k readings, 11k favorites and likes.
+My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (8.5k followers). I have created 50+ graphics/vision-related notes or answers with 610k readings, 11k favorites and likes.
     
 I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in Big Data Lab, College of Artificial Intelligence, Nanjing Agricultural University.    
 
 I always pay attention to **Computer Graphics & Human-Centered AI** and want to **research for a better world**. If I have the chance, I will pursue a Ph.D. degree.
 
-Research Experience
+Experience
 ------
 * April, 2018 - Now:
   * Vision and Cognition Lab, Southeast University
@@ -39,25 +39,28 @@ Research Experience
   * Research on Data Mining and Agricultural Artificial Intelligence [1,2]
   * Supervisor: [Prof. Xiuguo Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm)
 
-Education Experience
+Education
 ------
-* M.S. in Pattern Recognition, [Southeast University](https://www.seu.edu.cn), 2022 (expected)
-  * Microsoft Student Club, Southeast University
-    * Vice President, 2020.6 - Now
-    * Member, 2019.10 - 2020.6
+* M.Eng. in Pattern Recognition, [Southeast University](https://www.seu.edu.cn), 2022 (expected) 
   * Courses:
-    * Grade Rank:  10/133
+  	* Database(95), Artificial Intelligence(94), Neural Network and Machine Learning(94)
+    * Grade: 92.23, rank: 10/135
+  * Microsoft Student Club, Southeast University
+    * Vice President, Jun. 2020 - Jun. 2021 
+    * Member, Oct. 2019 - Jun. 2020
+
 * B.S. in Electronic Information Science and Technology, [Nanjing Agricultural University](http://www.njau.edu.cn), 2019
   * Thesis: **3D Reconstruction of Animal from a Single RGB Image**   
     * Outstanding Undergraduate Thesis Award, Nanjing Agricultural University
-  * [Big Data Lab](http://www.njaudata.org)
-    * Leader of Machine Learning Group & Undergraduate Group, 2017.6 - 2019.8
-    * Member, 2016.7 - 2017.6
+  * Big Data Lab
+    * Leader of Machine Learning Group & Undergraduate Group, Jun. 2017 - Aug. 2019
+    * Member, Jul. 2016 - Jun. 2017
   * Embedded IoT Innovation Studio
-    * Technical Director, 2017.6 - 2018.6
-    * Member, 2015.9 - 2017.6
+    * Technical Director, Jun. 2017 - Jun. 2018
+    * Member, Sep. 2015 - Jun. 2017
   * Courses:
-    * Grade: 91.17/100, Rank: 4/109
+  	*  Digital Image Processing(100), Microwave Technology and Antennas(100), Principle & Application of Microcom-puter(99), Digital Signal Processing(98), Signals and Systems(98)
+    * Grade: 90.73/100, Rank: 4/109
   * Admitted to Southeast University without examinations, Rank: 1/109
 
 
@@ -68,11 +71,11 @@ Publications
    Under Review, April 2021.
 
 2. **Identification of Tea Diseases based on Spectral Reflectance and Machine Learning. [[Paper]](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf)**   
-  [X. Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
+  [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
   Journal of Information Processing Systems, v 16, n 2, p 435-446, 2020.(EI)     
 
 3. **An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN. [[Paper]](https://www.koreascience.or.kr/article/JAKO201932569395125.pdf)**   
-  H. Cao, **Q. Ren**, [X. Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm), S. Zhang, Y. Qian   
+  H. Cao, **Q. Ren**, [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), S. Zhang, Y. Qian   
   Journal of Information Processing Systems, v 15, n 5, p 1156-1170, 2019.(EI)      
 
 
