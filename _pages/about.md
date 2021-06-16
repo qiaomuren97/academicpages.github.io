@@ -59,6 +59,18 @@ Experience
 
 Projects
 ------
+* **Hair Modeling and Rendering** (Jun. 2019 - Now)
+  * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com)
+  * Proposed a geometric method to generate 3D hair data according to a reference hair model [1]
+  * Explored the representation of hair model in deep learning and the interpretability in the latent space of neural networks
+  * Implemented algorithms on top conference and journal papers, such as HairNet (ECCV 2018) and so on
+
+ * **GAMES 101: Introduction to Computer Graphics [[Project page]](https://github.com/qiaomuren97/GAMES101)** (Feb. 2020 - Apr. 2020)
+  * An online public course about computer graphics taught by [**Prof. Ling-Qi Yan**](http://sites.cs.ucsb.edu/~lingqi/)
+  * A total of 8 assignments and a final project have been corrected by TAs **(Grade: 114.81/115)**
+
+ *
+
 
 
 * April, 2017 - April, 2018
