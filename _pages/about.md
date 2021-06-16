@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei. My research interests are **Computer Graphics and Computer Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (8.5k followers). I have created 50+ graphics/vision-related notes or answers with 610k readings, 11k favorites and likes.
+I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei. My research interests are **Computer Graphics and Computer Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (8.5k followers). I have created **50+** graphics/vision-related notes or answers with **610k readings, 11k favorites and likes**.
     
 I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in Big Data Lab, College of Artificial Intelligence, Nanjing Agricultural University.    
 
