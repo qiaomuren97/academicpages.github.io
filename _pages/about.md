@@ -49,7 +49,7 @@ Education
     * Vice President, Jun. 2020 - Jun. 2021 
     * Member, Oct. 2019 - Jun. 2020
 
-* B.S. in Electronic Information Science and Technology, [Nanjing Agricultural University](http://www.njau.edu.cn), 2019
+* B.Eng. in Electronic Information Science and Technology, [Nanjing Agricultural University](http://www.njau.edu.cn), 2019
   * Thesis: **3D Reconstruction of Animal from a Single RGB Image**   
     * Outstanding Undergraduate Thesis Award, Nanjing Agricultural University
   * Big Data Lab
