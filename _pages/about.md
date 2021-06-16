@@ -69,14 +69,29 @@ Projects
   * An online public course about computer graphics taught by [**Prof. Ling-Qi Yan**](http://sites.cs.ucsb.edu/~lingqi/)
   * A total of 8 assignments and a final project have been corrected by TAs **(Grade: 114.81/115)**
 
- *
+ * **3D Reconstruction of Animal from a Single RGB Image** (Sep. 2018 - Jun. 2019)
+  * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com) and [Prof. Xiuguo Zou](http://ai.njau.edu.cn/info/1059/1172.htm)
+  * Outstanding Undergraduate Thesis Award of Nanjing Agricultural University (Top 1 out of 300+ students)
+  * Used a parametric statistical 3D model as a prior, recovered 3D shape and pose from a rgb image based on visual cues, such as key points
 
+* **Agriclutural Question Answering System** (Jul. 2018 - Aug. 2018)
+  * Selected as a member of **the International AI Training Program for Chinese Universities** organized by The Chinese Ministry of Education, Peking University, acceptance rate: 4%
+  * Constructed knowledge graph related to agriculture and built a rule-based question answering system
 
+* **Knowledge Graph and Question Answering Sysyem** (May. 2017 - Aug. 2017)
+  * Under the supervision of [Prof. Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm) and Dr. Yuncheng Hua
+  * Cleaned the acquired online data and constructed knowledge graph
+  * Built a question answering system according to knowledge graph
 
-* April, 2017 - April, 2018
-  * College of Engineering, Nanjing Agricultural University
+* **SLAM applied to Agricultue** (April, 2017 - April, 2018)
+  * Under the supervision of [Prof. Xiangze Lin](http://ai.njau.edu.cn/info/1055/1158.htm#)
   * Research on SLAM applied to Agricultue
-  * Supervisor: [Prof. Xiangze Lin](http://ai.njau.edu.cn/info/1055/1158.htm#)
+
+ * **Machine Learning and Its applications** (Aug. 2016 - Aug. 2019)
+  * Under the supervision of [Prof. Xiuguo Zou](http://ai.njau.edu.cn/info/1059/1172.htm)
+  * Proposed a method to identify tea diseases based on spectral reflectance with machine learning [2]
+  * Developed a method to find the reasonable data needed in the Supervisory Control and Data Acquisition (SCADA) system [3]
+  * Designed a mobile IoT device to detect whether the apple is rotten or not according to gas information with the help of machine learning algorithms
 
 Publications
 ------
