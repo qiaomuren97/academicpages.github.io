@@ -41,28 +41,30 @@ Education
 
 Experience
 ------
-* April, 2018 - Now:
-  * Vision and Cognition Lab, Southeast University
+* Vision and Cognition Lab, Southeast University (April. 2018 - Now)
+  * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com)
   * Research on Computer Graphics and Computer Vision
-    * **Animal Modeling**, especially from a Single RGB Image
-    * **Hair Modeling and Rendering**
-  * Supervisor: [Prof. Yangang Wang](https://yangangwang.com)
+    * **3D Reconstruction**, especially single-view methods
+    * **Hair Modeling and Rendering [1]**
+* SeetaTech (May. 2019 - Aug. 2019)
+  * Research on computer vision, especially object detection and tracking
+  * Deployed algorithms on hardware, such as smart containers in retail scenarios
+* Institute of Cognitive Intelligence, Southeast University (May. 2017 - Sep. 2017)
+  * Under the supervision of [Prof. Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm) and Dr. Yuncheng Hua
+  * Research on Knowledge Graph and Question Answering System
+* Big Data Lab, Nanjing Agricultural University (Jun.2016 - Aug. 2019)
+  * Under the supervision of [Prof. Xiuguo Zou](http://ai.njau.edu.cn/info/1059/1172.htm)
+  * Research on machine learining and its applications in agriculture [2] and power system [3]
+  * Led the machine learning group and undergraduate group of the lab from Jun. 2017
 
-* May, 2017 - September, 2017:
-  * Cognitive Intelligence Institute, Southeast University
-  * Research on Knowledge Graph, Q&A System
-  * Supervisor: [Prof. Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm) and Dr. Yuncheng Hua
+Projects
+------
+
 
 * April, 2017 - April, 2018
   * College of Engineering, Nanjing Agricultural University
   * Research on SLAM applied to Agricultue
   * Supervisor: [Prof. Xiangze Lin](http://ai.njau.edu.cn/info/1055/1158.htm#)
-
-* July, 2016 - August, 2019:
-  * Big Data Lab, College of Engineering, Nanjing Agricultural University
-  * Research on Data Mining and Agricultural Artificial Intelligence [1,2]
-  * Supervisor: [Prof. Xiuguo Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm)
-
 
 Publications
 ------
