@@ -65,11 +65,11 @@ Projects
   * Explored the representation of hair model in deep learning and the interpretability in the latent space of neural networks
   * Implemented algorithms on top conference and journal papers, such as HairNet (ECCV 2018) and so on
 
- * **GAMES 101: Introduction to Computer Graphics [[Project page]](https://github.com/qiaomuren97/GAMES101)** (Feb. 2020 - Apr. 2020)
+* **GAMES 101: Introduction to Computer Graphics [[Project page]](https://github.com/qiaomuren97/GAMES101)** (Feb. 2020 - Apr. 2020)
   * An online public course about computer graphics taught by [**Prof. Ling-Qi Yan**](http://sites.cs.ucsb.edu/~lingqi/)
   * A total of 8 assignments and a final project have been corrected by TAs **(Grade: 114.81/115)**
 
- * **3D Reconstruction of Animal from a Single RGB Image** (Sep. 2018 - Jun. 2019)
+* **3D Reconstruction of Animal from a Single RGB Image** (Sep. 2018 - Jun. 2019)
   * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com) and [Prof. Xiuguo Zou](http://ai.njau.edu.cn/info/1059/1172.htm)
   * Outstanding Undergraduate Thesis Award of Nanjing Agricultural University (Top 1 out of 300+ students)
   * Used a parametric statistical 3D model as a prior, recovered 3D shape and pose from a rgb image based on visual cues, such as key points
@@ -87,7 +87,7 @@ Projects
   * Under the supervision of [Prof. Xiangze Lin](http://ai.njau.edu.cn/info/1055/1158.htm#)
   * Research on SLAM applied to Agricultue
 
- * **Machine Learning and Its applications** (Aug. 2016 - Aug. 2019)
+* **Machine Learning and Its applications** (Aug. 2016 - Aug. 2019)
   * Under the supervision of [Prof. Xiuguo Zou](http://ai.njau.edu.cn/info/1059/1172.htm)
   * Proposed a method to identify tea diseases based on spectral reflectance with machine learning [2]
   * Developed a method to find the reasonable data needed in the Supervisory Control and Data Acquisition (SCADA) system [3]
