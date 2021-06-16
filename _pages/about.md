@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and [Prof. Haikun Wei](https://automation.seu.edu.cn/2019/0528/c24504a275217/page.htm). My research interests are **Computer Graphics and Computer Vision, especially 3D Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen/activities), [CSDN](https://me.csdn.net/MrPhD).    
-    
-I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in [Big Data Lab](http://www.njaudata.org), College of Engineering, Nanjing Agricultural University.    
+I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei. My research interests are **Computer Graphics and Computer Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. 
 
-I always pay attention to **Virtual Reality & Human-Centered AI** and want to **research for a better world**. If I have the chance, I will pursue a Ph.D. degree.
+My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen)(8.5k followers). I have created 50+ graphics/vision-related notes and answers with    
+    
+I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in [Big Data Lab](http://www.njaudata.org), College of Artificial Intelligence, Nanjing Agricultural University.    
+
+I always pay attention to **Computer Graphics & Human-Centered AI** and want to **research for a better world**. If I have the chance, I will pursue a Ph.D. degree.
 
 Research Experience
 ------
