@@ -9,9 +9,9 @@ redirect_from:
 ---
 I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei. My research interests are **Computer Graphics and Computer Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. 
 
-My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen)(8.5k followers). I have created 50+ graphics/vision-related notes and answers with 610k readings, 11k favorites and likes.
+My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (8.5k followers). I have created 50+ graphics/vision-related notes and answers with 610k readings, 11k favorites and likes.
     
-I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in [Big Data Lab](http://www.njaudata.org), College of Artificial Intelligence, Nanjing Agricultural University.    
+I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in Big Data Lab, College of Artificial Intelligence, Nanjing Agricultural University.    
 
 I always pay attention to **Computer Graphics & Human-Centered AI** and want to **research for a better world**. If I have the chance, I will pursue a Ph.D. degree.
 
@@ -63,13 +63,26 @@ Education Experience
 
 Publications
 ------
-1. **Identification of Tea Diseases based on Spectral Reflectance and Machine Learning.**   
+1.  **Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.**
+   **Q. Ren**, H. Wei, [Y. Wang](https://yangangwang.com)
+   Under Review, April 2021.
+
+2. **Identification of Tea Diseases based on Spectral Reflectance and Machine Learning. [Paper](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf)**   
   [X. Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
   Journal of Information Processing Systems, v 16, n 2, p 435-446, 2020.(EI)     
 
-2. **An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN.**   
+3. **An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN. [Paper](https://www.koreascience.or.kr/article/JAKO201932569395125.pdf)**   
   H. Cao, **Q. Ren**, [X. Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm), S. Zhang, Y. Qian   
   Journal of Information Processing Systems, v 15, n 5, p 1156-1170, 2019.(EI)      
+
+
+Honors & Awards (selected)
+------
+* The First Class Scholarship of Southeast University (Top 8%), 2020 
+* Outstanding Undergraduate Thesis Award of Nanjing Agricultural University (Top 1 out of 300 students), 2019
+* Outstanding Student of Jiangsu Province(1 out of 5000 students), 2018
+* Gold Medal of [International Genetically Engineered Machine Competition](https://igem.org/Main_Page), 2017
+* The First Class Scholarship of Nanjing Agricultural University, 2016, 2017, 2018
 
 
 Talks
@@ -77,15 +90,3 @@ Talks
 * **'Agricultural AI'**, China R Conference, 2018
   * Organized by School of Statistics, Renmin University of China and Guanghua School of Management, Peking University
 
-Honors & Awards (selected)
-------
-* The First Class Scholarship of Southeast University (Top 8%), 2020 
-* Outstanding Undergraduate Thesis Award of Nanjing Agricultural University (1/300+), 2019
-* Outstanding Student of Jiangsu Province(江苏省三好学生), 2018
-* Gold Medal of [International Genetically Engineered Machine Competition](https://igem.org/Main_Page), 2017
-* The First Class Scholarship of Nanjing Agricultural University, 2016, 2017, 2018
-
-Collaborators (partial list)
-------
-* [Ligeng Chen](https://chenligeng.github.io)
-* [Ada Cheng](https://adacheng.github.io/)
