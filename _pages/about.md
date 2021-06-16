@@ -84,3 +84,9 @@ Honors & Awards (selected)
 * Outstanding Student of Jiangsu Province(1 out of 5000 students), 2018
 * Gold Medal of [International Genetically Engineered Machine Competition](https://igem.org/Main_Page), 2017
 * The First Class Scholarship of Nanjing Agricultural University, 2016, 2017, 2018
+
+
+Talks
+------
+* **'Agricultural AI'**, China R Conference, 2018
+  * Organized by School of Statistics, Renmin University of China and Guanghua School of Management, Peking University

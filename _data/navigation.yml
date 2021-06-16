@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
-  - title: "Experience"
-    url: /experience/  
+  #- title: "Experience"
+  #  url: /experience/  
 
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
 
-  - title: "Honors"
-    url: /honors/  
+  #- title: "Honors"
+ #   url: /honors/  
 
 # - title: "Blogs"
 #  url: /blogs/ 
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#  url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
