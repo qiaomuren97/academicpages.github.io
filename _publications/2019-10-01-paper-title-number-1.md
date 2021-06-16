@@ -1,7 +1,7 @@
 ---
 title: "An Optimization Method for the Calculation of SCADA Main Grid’s Theoretical Line Loss Based on DBSCAN."
 collection: publications
-permalink: /publication/2019-paper-title-number-1
+permalink: /publication/2019-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019
 venue: 'Journal of Information Processing Systems'
