@@ -66,7 +66,7 @@ Projects
   * Implemented algorithms on top conference and journal papers, such as HairNet (ECCV 2018) and so on
 
 * **GAMES 101: Introduction to Computer Graphics [[Project page]](https://github.com/qiaomuren97/GAMES101)** (Feb. 2020 - Apr. 2020)
-  * An online public course about computer graphics taught by [**Prof. Ling-Qi Yan**](http://sites.cs.ucsb.edu/~lingqi/)
+  * An online public course about computer graphics taught by [Prof. Ling-Qi Yan](http://sites.cs.ucsb.edu/~lingqi/)
   * A total of 8 assignments and a final project have been corrected by TAs **(Grade: 114.81/115)**
 
 * **3D Reconstruction of Animal from a Single RGB Image** (Sep. 2018 - Jun. 2019)
