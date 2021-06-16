@@ -13,29 +13,6 @@ I was selected as a member of [The International AI Training  Program For Chines
 
 I always pay attention to **Computer Graphics & Human-Centered AI** and want to **research for a better world**. If I have the chance, I will pursue a Ph.D. degree.
 
-Experience
-------
-* April, 2018 - Now:
-  * Vision and Cognition Lab, Southeast University
-  * Research on Computer Graphics and Computer Vision
-    * **Animal Modeling**, especially from a Single RGB Image
-    * **Hair Modeling and Rendering**
-  * Supervisor: [Prof. Yangang Wang](https://yangangwang.com)
-
-* May, 2017 - September, 2017:
-  * Cognitive Intelligence Institute, Southeast University
-  * Research on Knowledge Graph, Q&A System
-  * Supervisor: [Prof. Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm) and Dr. Yuncheng Hua
-
-* April, 2017 - April, 2018
-  * College of Engineering, Nanjing Agricultural University
-  * Research on SLAM applied to Agricultue
-  * Supervisor: [Prof. Xiangze Lin](http://ai.njau.edu.cn/info/1055/1158.htm#)
-
-* July, 2016 - August, 2019:
-  * Big Data Lab, College of Engineering, Nanjing Agricultural University
-  * Research on Data Mining and Agricultural Artificial Intelligence [1,2]
-  * Supervisor: [Prof. Xiuguo Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm)
 
 Education
 ------
@@ -62,6 +39,31 @@ Education
   * Admitted to Southeast University without examinations, Rank: 1/109
 
 
+Experience
+------
+* April, 2018 - Now:
+  * Vision and Cognition Lab, Southeast University
+  * Research on Computer Graphics and Computer Vision
+    * **Animal Modeling**, especially from a Single RGB Image
+    * **Hair Modeling and Rendering**
+  * Supervisor: [Prof. Yangang Wang](https://yangangwang.com)
+
+* May, 2017 - September, 2017:
+  * Cognitive Intelligence Institute, Southeast University
+  * Research on Knowledge Graph, Q&A System
+  * Supervisor: [Prof. Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm) and Dr. Yuncheng Hua
+
+* April, 2017 - April, 2018
+  * College of Engineering, Nanjing Agricultural University
+  * Research on SLAM applied to Agricultue
+  * Supervisor: [Prof. Xiangze Lin](http://ai.njau.edu.cn/info/1055/1158.htm#)
+
+* July, 2016 - August, 2019:
+  * Big Data Lab, College of Engineering, Nanjing Agricultural University
+  * Research on Data Mining and Agricultural Artificial Intelligence [1,2]
+  * Supervisor: [Prof. Xiuguo Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm)
+
+
 Publications
 ------
 1.  **Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.**  
@@ -79,11 +81,11 @@ Publications
 
 Honors & Awards (selected)
 ------
-* The First Class Scholarship of Southeast University (Top 8%), 2020 
-* Outstanding Undergraduate Thesis Award of Nanjing Agricultural University (Top 1 out of 300 students), 2019
-* Outstanding Student of Jiangsu Province(1 out of 5000 students), 2018
-* Gold Medal of [International Genetically Engineered Machine Competition](https://igem.org/Main_Page), 2017
-* The First Class Scholarship of Nanjing Agricultural University, 2016, 2017, 2018
+* **The First Class Scholarship** of Southeast University (Top 8%), 2020 
+* **Outstanding Undergraduate Thesis Award** of Nanjing Agricultural University (Top 1 out of 300 students), 2019
+* **Outstanding Student of Jiangsu Province(1 out of 5000 students)**, 2018
+* **Gold Medal** of [International Genetically Engineered Machine Competition](https://igem.org/Main_Page), 2017
+* **The First Class Scholarship** of Nanjing Agricultural University, 2016, 2017, 2018
 
 
 Talks
