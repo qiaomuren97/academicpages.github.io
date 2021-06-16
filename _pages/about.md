@@ -1,50 +1,89 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and [Prof. Haikun Wei](https://automation.seu.edu.cn/2019/0528/c24504a275217/page.htm). My research interests are **Computer Graphics and Computer Vision, especially 3D Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen/activities), [CSDN](https://me.csdn.net/MrPhD).    
+    
+I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in [Big Data Lab](http://www.njaudata.org), College of Engineering, Nanjing Agricultural University.    
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I always pay attention to **Virtual Reality & Human-Centered AI** and want to **research for a better world**. If I have the chance, I will pursue a Ph.D. degree.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Research Experience
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* April, 2018 - Now:
+  * Vision and Cognition Lab, Southeast University
+  * Research on Computer Graphics and Computer Vision
+    * **Animal Modeling**, especially from a Single RGB Image
+    * **Hair Modeling and Rendering**
+  * Supervisor: [Prof. Yangang Wang](https://yangangwang.com)
 
-Create content & metadata
+* May, 2017 - September, 2017:
+  * Cognitive Intelligence Institute, Southeast University
+  * Research on Knowledge Graph, Q&A System
+  * Supervisor: [Prof. Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm) and Dr. Yuncheng Hua
+
+* April, 2017 - April, 2018
+  * College of Engineering, Nanjing Agricultural University
+  * Research on SLAM applied to Agricultue
+  * Supervisor: [Prof. Xiangze Lin](http://www.pk.njau.edu.cn/info/1182/3234.htm)
+
+* July, 2016 - August, 2019:
+  * Big Data Lab, College of Engineering, Nanjing Agricultural University
+  * Research on Data Mining and Agricultural Artificial Intelligence [1,2]
+  * Supervisor: [Prof. Xiuguo Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm)
+
+Education Experience
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* M.S. in Pattern Recognition, [Southeast University](https://www.seu.edu.cn), 2022 (expected)
+  * Microsoft Student Club, Southeast University
+    * Vice President, 2020.6 - Now
+    * Member, 2019.10 - 2020.6
+  * Courses:
+    * Grade Rank:  10/133
+* B.S. in Electronic Information Science and Technology, [Nanjing Agricultural University](http://www.njau.edu.cn), 2019
+  * Thesis: **3D Reconstruction of Animal from a Single RGB Image**   
+    * Outstanding Undergraduate Thesis Award, Nanjing Agricultural University
+  * [Big Data Lab](http://www.njaudata.org)
+    * Leader of Machine Learning Group & Undergraduate Group, 2017.6 - 2019.8
+    * Member, 2016.7 - 2017.6
+  * Embedded IoT Innovation Studio
+    * Technical Director, 2017.6 - 2018.6
+    * Member, 2015.9 - 2017.6
+  * Courses:
+    * Grade: 91.17/100, Rank: 4/109
+  * Admitted to Southeast University without examinations, Rank: 1/109
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Publications
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+1. **Identification of Tea Diseases based on Spectral Reflectance and Machine Learning.**   
+  [X. Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
+  Journal of Information Processing Systems, v 16, n 2, p 435-446, 2020.(EI)     
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+2. **An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN.**   
+  H. Cao, **Q. Ren**, [X. Zou](http://www.pk.njau.edu.cn/info/1183/2274.htm), S. Zhang, Y. Qian   
+  Journal of Information Processing Systems, v 15, n 5, p 1156-1170, 2019.(EI)      
 
-For more info
+
+Talks
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* **'Agricultural AI'**, China R Conference, 2018
+  * Organized by School of Statistics, Renmin University of China and Guanghua School of Management, Peking University
+
+Honors & Awards (selected)
+------
+* The First Class Scholarship of Southeast University (Top 8%), 2020 
+* Outstanding Undergraduate Thesis Award of Nanjing Agricultural University (1/300+), 2019
+* Outstanding Student of Jiangsu Province(江苏省三好学生), 2018
+* Gold Medal of [International Genetically Engineered Machine Competition](https://igem.org/Main_Page), 2017
+* The First Class Scholarship of Nanjing Agricultural University, 2016, 2017, 2018
+
+Collaborators (partial list)
+------
+* [Ligeng Chen](https://chenligeng.github.io)
+* [Ada Cheng](https://adacheng.github.io/)
