@@ -85,7 +85,7 @@ Projects
 
 * **SLAM applied to Agriculture** (April, 2017 - April, 2018)
   * Under the supervision of [Prof. Xiangze Lin](http://ai.njau.edu.cn/info/1055/1158.htm#)
-  * Research on SLAM applied to Agricultue
+  * Research on SLAM applied to Agriculture
 
 * **Machine Learning and Its applications** (Aug. 2016 - Aug. 2019)
   * Under the supervision of [Prof. Xiuguo Zou](http://ai.njau.edu.cn/info/1059/1172.htm)
