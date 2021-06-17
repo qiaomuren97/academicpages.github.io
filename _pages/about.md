@@ -26,17 +26,17 @@ Education
 
 * **B.Eng. in Electronic Information Science and Technology**, [Nanjing Agricultural University](http://www.njau.edu.cn), Sep. 2015 - Jun. 2019
   * Courses:
-  	*  Digital Image Processing(100), Microwave Technology and Antennas(100), Principle & Application of Microcom-puter(99), Digital Signal Processing(98), Signals and Systems(98)
+  	*  Digital Image Processing(100), Microwave Technology and Antennas(100), Principle & Application of Microcomputer(99), Digital Signal Processing(98), Signals and Systems(98)
     * Grade: 90.73/100, **rank: 4/109**
   * Thesis: **3D Reconstruction of Animal from a Single RGB Image**   
     * Outstanding Undergraduate Thesis Award, Nanjing Agricultural University
   * Big Data Lab
     * Leader of Machine Learning Group & Undergraduate Group, Jun. 2017 - Aug. 2019
-    * Member, Jul. 2016 - Jun. 2017
+    * Core member, Jul. 2016 - Jun. 2017
   * Embedded IoT Innovation Studio
     * Technical Director, Jun. 2017 - Jun. 2018
-    * Member, Sep. 2015 - Jun. 2017
-  * Admitted to Southeast University without examinations, Rank: 1/109
+    * Core member, Sep. 2015 - Jun. 2017
+  * **Admitted to Southeast University without examinations, rank: 1/109**
 
 
 Experience
