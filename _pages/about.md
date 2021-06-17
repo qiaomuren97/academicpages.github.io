@@ -19,7 +19,7 @@ Education
 * **M.Eng. in Pattern Recognition**, [Southeast University](https://www.seu.edu.cn), 2022 (expected) 
   * Courses:
   	* Database(95), Artificial Intelligence(94), Neural Network and Machine Learning(94)
-    * Grade: 92.23, **rank: 10/135**
+    * Grade: 92.23/100, **rank: 10/135**
   * Microsoft Student Club, Southeast University
     * Vice President, Jun. 2020 - Jun. 2021 
     * Member, Oct. 2019 - Jun. 2020
