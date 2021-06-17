@@ -16,7 +16,7 @@ I always pay attention to **Computer Graphics & Human-Centered AI** and want to 
 
 Education
 ------
-* **M.Eng. in Pattern Recognition**, [Southeast University](https://www.seu.edu.cn), 2022 (expected) 
+* **M.Eng. in Pattern Recognition**, [Southeast University](https://www.seu.edu.cn), Sep. 2019 - Jun. 2022 (expected) 
   * Courses:
   	* Database(95), Artificial Intelligence(94), Neural Network and Machine Learning(94)
     * Grade: 92.23/100, **rank: 10/135**
@@ -24,7 +24,7 @@ Education
     * Vice President, Jun. 2020 - Jun. 2021 
     * Member, Oct. 2019 - Jun. 2020
 
-* **B.Eng. in Electronic Information Science and Technology**, [Nanjing Agricultural University](http://www.njau.edu.cn), 2019
+* **B.Eng. in Electronic Information Science and Technology**, [Nanjing Agricultural University](http://www.njau.edu.cn), Sep. 2015 - Jun. 2019
   * Courses:
   	*  Digital Image Processing(100), Microwave Technology and Antennas(100), Principle & Application of Microcom-puter(99), Digital Signal Processing(98), Signals and Systems(98)
     * Grade: 90.73/100, **rank: 4/109**
