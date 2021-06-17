@@ -61,7 +61,7 @@ Projects
 ------
 * **Hair Modeling and Rendering** (Jun. 2019 - Now)
   * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com)
-  * Proposed a geometric method to generate 3D hair data according to a reference hair model [1]
+  * Proposed a geometric method to generate 3D hair data according to the reference hair model [1]
   * Explored the representation of hair model in deep learning and the interpretability in the latent space of neural networks
   * Implemented algorithms on top conference and journal papers, such as HairNet (ECCV 2018) and so on
 
@@ -83,7 +83,7 @@ Projects
   * Cleaned the acquired online data and constructed knowledge graph
   * Built a question answering system according to knowledge graph
 
-* **SLAM applied to Agricultue** (April, 2017 - April, 2018)
+* **SLAM applied to Agriculture** (April, 2017 - April, 2018)
   * Under the supervision of [Prof. Xiangze Lin](http://ai.njau.edu.cn/info/1055/1158.htm#)
   * Research on SLAM applied to Agricultue
 
