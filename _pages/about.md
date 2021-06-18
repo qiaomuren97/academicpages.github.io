@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**<font color='red'> Now I am looking for a PhD position (Fall 2022) related to Computer Graphics, Computer Vision, Human-Computer Interaction or Robotics. Please feel free to contact me! </font>**
+**<font color='red'> Now I am looking for a PhD position (Fall 2022) related to Computer Graphics, Computer Vision, Human-Computer Interaction or Robotics. Please feel free to contact me (qmren97@163.com)! </font>**
 
 I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei. My research interests are **Computer Graphics and Computer Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (8.5k followers). I have created **50+** graphics/vision-related notes or answers with **610k readings, 11k favorites and likes**.
     
