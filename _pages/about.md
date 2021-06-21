@@ -126,5 +126,6 @@ Talks
 
 Service
 ------
-* Reviewer, [IEEE Transactions on Affective Computing](https://www.computer.org/csdl/journal/ta)
-* Grader, [GAMES 101: Introduction to Computer Graphics, Spring 2021](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+* Reviewer, [IEEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=5165369)
+* Grader, [GAMES 101: Introduction to Computer Graphics, Spring 2021](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html), online course
+* Grader, Introduction to Artificial Intelligence, Fall 2020, Southeast University
