@@ -99,7 +99,7 @@ Publications
 ------
 1.  **Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.**  
    **Q. Ren**, H. Wei, [Y. Wang](https://yangangwang.com)   
-   The 11th International Conference on Image and Graphics, June. 2021.
+   The 11th International Conference on Image and Graphics, 2021.
 
 2. **Identification of Tea Diseases based on Spectral Reflectance and Machine Learning. [[Paper]](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf)**   
   [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
