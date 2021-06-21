@@ -97,7 +97,7 @@ Projects
 
 Publications
 ------
-1.  **<font color='red'> [New] </font>** *Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.*
+1.  **<font color='red'> [New] </font>** *Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.*   
    **Q. Ren**, H. Wei, [Y. Wang](https://yangangwang.com)   
    **The 11th International Conference on Image and Graphics**, 2021.
 
