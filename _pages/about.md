@@ -103,11 +103,11 @@ Publications
 
 2. **Identification of Tea Diseases based on Spectral Reflectance and Machine Learning. [[Paper]](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf)**   
   [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
-  Journal of Information Processing Systems, v 16, n 2, p 435-446, 2020.(EI)     
+  Journal of Information Processing Systems, v 16, n 2, p 435-446, 2020.    
 
 3. **An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN. [[Paper]](https://www.koreascience.or.kr/article/JAKO201932569395125.pdf)**   
   H. Cao, **Q. Ren**, [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), S. Zhang, Y. Qian   
-  Journal of Information Processing Systems, v 15, n 5, p 1156-1170, 2019.(EI)      
+  Journal of Information Processing Systems, v 15, n 5, p 1156-1170, 2019.     
 
 
 Honors & Awards (selected)
