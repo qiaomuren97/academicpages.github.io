@@ -127,8 +127,9 @@ Misc
 ------
 I am a huge fan of sports, such as Men’s Physique(健体), Basketball, Running and so on. I hope to try more sports, such as surfing, rock climbing, etc. I am also full of interest in photography, food and many other things.
 * Some milestones: 
-  * Deadlift(硬拉): 180kg (2021.06.27), 170kg (2021.05.20)
-  * Bowling: 200 points with 7 strikes (2021.06.28)
+  * Deadlift(硬拉): 180kg (06/27/2021), 170kg (05/20/2021)
+  * Squats(深蹲): 120kg\*2 (12/30/2020)
+  * Bowling: 200 points with 7 strikes (06/28/2021)
   * Run around Xuanwu Lake: 10.05km in 56 mins 58 seconds
   * The longest running distance: 12km in 1 hours 15 mins 1 seconds
 
