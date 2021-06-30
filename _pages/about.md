@@ -121,3 +121,15 @@ Talks
 ------
 * **'Agricultural AI'**, China R Conference, 2018
   * Organized by School of Statistics, Renmin University of China and Guanghua School of Management, Peking University
+
+
+Misc
+------
+I am a huge fan of sports, such as Men’s Physique(健体), Basketball，Running and so on. I hope to try more sports, such as surfing, rock climbing, etc.
+* Some milestones :-D
+  ** Deadlift(硬拉): 180kg (2021.06.27), 170kg (2021.05.20)
+  ** Bowling: 200 points (2021.06.28)
+  ** Run around Xuanwu Lake: 10.05km in 56 mins 58 seconds
+  ** The longest running distance: 12km in 1 hours 15 mins 1 seconds
+
+Hope to be an advanced player in every field!(希望成为每个领域的高级玩家)
