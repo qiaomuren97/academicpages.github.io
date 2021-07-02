@@ -11,7 +11,7 @@ I'm a master student at [College of Automation](https://automation.seu.edu.cn/),
     
 I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in Big Data Lab, College of Artificial Intelligence, Nanjing Agricultural University.    
 
-I always pay attention to **Computer Graphics & Human-Centered AI** and want to **research for a better world**. If I have the chance, I will pursue a Ph.D. degree.
+I always pay attention to **Human-Centered AI** and want to **<font color='red'>Research for a Better Human-Centered World</font>**. If I have the chance, I will pursue a Ph.D. degree.
 
 
 Education
