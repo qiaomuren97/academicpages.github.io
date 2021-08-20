@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei. My research interests are **Computer Graphics and Computer Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (8.5k followers). I have created **50+** graphics/vision-related notes or answers with **640k readings, 11k favorites and likes**.
+I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei. My research interests are **Computer Graphics and Computer Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (8.6k followers). I have created **50+** graphics/vision-related notes or answers with **710k readings, 11k favorites and likes**.
     
 I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in Big Data Lab, College of Artificial Intelligence, Nanjing Agricultural University.    
 
@@ -41,6 +41,9 @@ Education
 
 Experience
 ------
+* **Alibaba** (Aug. 2021 - Now)
+  * Computer graphics algorithm engineer intern
+  * Research on neural fur generation
 * **Vision and Cognition Lab**, Southeast University (April. 2018 - Now)
   * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com)
   * Research on Computer Graphics and Computer Vision
@@ -102,7 +105,6 @@ Publications
 2. *Identification of Tea Diseases based on Spectral Reflectance and Machine Learning. [[Paper]](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf)*   
   [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
   **Journal of Information Processing Systems**, v 16, n 2, p 435-446, 2020.    
-
 3. *An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN. [[Paper]](https://www.koreascience.or.kr/article/JAKO201932569395125.pdf)*   
   H. Cao, **Q. Ren**, [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), S. Zhang, Y. Qian   
   **Journal of Information Processing Systems**, v 15, n 5, p 1156-1170, 2019.     
@@ -128,7 +130,8 @@ Misc
 I am a huge fan of sports, such as Men’s Physique(健体), Basketball, Running and so on. I hope to try more sports, such as surfing, rock climbing, etc. I am also full of interest in photography, food and many other things.
 * Some milestones: 
   * Deadlift(硬拉): 180kg (06/27/2021), 170kg (05/20/2021)
-  * Squats(深蹲): 120kg\*2 (12/30/2020)
+  * Squat(深蹲): 120kg\*2 (12/30/2020)
+  * Bench press: 90kg (08/15/2021)
   * Bowling: 200 points with 7 strikes (06/28/2021)
   * Run around Xuanwu Lake: 10.05km in 56 mins 58 seconds
   * The longest running distance: 12km in 1 hours 15 mins 1 seconds
