@@ -131,7 +131,7 @@ I am a huge fan of sports, such as Men’s Physique(健体), Basketball, Running
 * Some milestones: 
   * Deadlift(硬拉): 180kg (06/27/2021), 170kg (05/20/2021)
   * Squat(深蹲): 120kg\*2 (12/30/2020)
-  * Bench press: 90kg (08/15/2021)
+  * Bench press(卧推): 90kg (08/15/2021)
   * Bowling: 200 points with 7 strikes (06/28/2021)
   * Run around Xuanwu Lake: 10.05km in 56 mins 58 seconds
   * The longest running distance: 12km in 1 hours 15 mins 1 seconds
