@@ -127,10 +127,10 @@ Talks
 
 Misc
 ------
-I am a huge fan of sports, such as Men’s Physique(健体), Basketball, Running and so on. I hope to try more sports, such as surfing, rock climbing, etc. I am also full of interest in photography, food and many other things.
+I am a huge fan of sports, such as Men’s Physique(健体), Basketball, Running and so on. I want to try more sports, like surfing, rock climbing, etc. I am also full of interest in photography, food and many other things.
 * Some milestones: 
   * Deadlift(硬拉): 180kg (06/27/2021), 170kg (05/20/2021)
-  * Squat(深蹲): 120kg\*2 (12/30/2020)
+  * Squat(深蹲): 130kg\*4 (08/21/2021), 120kg\*2 (12/30/2020)
   * Bench press(卧推): 90kg (08/15/2021)
   * Bowling: 200 points with 7 strikes (06/28/2021)
   * Run around Xuanwu Lake: 10.05km in 56 mins 58 seconds
