@@ -43,7 +43,7 @@ Experience
 ------
 * **Alibaba** (Aug. 2021 - Now)
   * Computer graphics algorithm engineer intern
-  * Research on neural fur generation, related to domain adaptation and contrastive learning
+  * Research on neural fur generation (related to **Domain Adaptation** and **Contrastive Learning**)
 * **Vision and Cognition Lab**, Southeast University (April. 2018 - Now)
   * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com)
   * Research on Computer Graphics and Computer Vision
