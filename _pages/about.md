@@ -41,7 +41,7 @@ Education
 
 Experience
 ------
-* **Alibaba** (Aug. 2021 - Now)
+* **Tao Technology, Alibaba** (Aug. 2021 - Now)
   * Computer graphics algorithm engineer intern
   * Research on neural fur generation (related to **Domain Adaptation** and **Contrastive Learning**)
 * **Vision and Cognition Lab**, Southeast University (April. 2018 - Now)
