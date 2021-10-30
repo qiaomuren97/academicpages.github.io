@@ -99,14 +99,14 @@ Projects
 
 Publications
 ------
-1.  **<font color='red'> [New] </font>** *Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.*   
+1.  **<font color='red'> [New] </font>** *Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.*[Paper](https://link.springer.com/chapter/10.1007/978-3-030-87361-5_44)
    **Q. Ren**, H. Wei, [Y. Wang](https://yangangwang.com)   
    **International Conference on Image and Graphics(ICIG)**, 2021.
 
-2. *Identification of Tea Diseases based on Spectral Reflectance and Machine Learning. [[Paper]](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf)*   
+2. *Identification of Tea Diseases based on Spectral Reflectance and Machine Learning.* [[Paper]](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf) 
   [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
   **Journal of Information Processing Systems**, v 16, n 2, p 435-446, 2020.    
-3. *An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN. [[Paper]](https://www.koreascience.or.kr/article/JAKO201932569395125.pdf)*   
+3. *An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN.* [[Paper]](https://www.koreascience.or.kr/article/JAKO201932569395125.pdf)
   H. Cao, **Q. Ren**, [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), S. Zhang, Y. Qian   
   **Journal of Information Processing Systems**, v 15, n 5, p 1156-1170, 2019.     
 
