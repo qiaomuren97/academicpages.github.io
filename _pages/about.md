@@ -42,7 +42,7 @@ Experience
 ------
 * **Tao Technology, Alibaba** (Aug. 2021 - Now)
   * Computer graphics algorithm engineer intern
-  * Research on **Neural Fur Generation** (related to **Domain Adaptation** and **Contrastive Learning**) and **Offline Rendering**
+  * Research on **Neural Fur Generation** (related to Domain Adaptation and Contrastive Learning) and **Offline Rendering**
   * Mentor: Gang Wang, Lumin Yang, Yan Zhang
 * **Vision and Cognition Lab**, Southeast University (April. 2018 - Now)
   * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com)
