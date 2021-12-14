@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei. My research interests are **Computer Graphics and Computer Vision**. Besides, I'm also interested in **Disentangled Representation Learning** and **Conditional Generation**. My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (9k followers). I have created **50+** graphics/vision-related notes or answers with **840k readings, 12k favorites and likes**.
+I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei.  I will join Alibaba as a computer graphics algorithm engineer after graduation.
+
+My research interests are **Computer Graphics** and Computer Vision. Besides, I'm also interested in Disentangled Representation Learning and Conditional Generation. My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (9.2k followers). I have created **50+** graphics/vision-related notes or answers with **870k readings, 14k favorites and likes**.
     
 I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in Big Data Lab, College of Artificial Intelligence, Nanjing Agricultural University.    
 
-I always pay attention to **Human-Centered AI** and want to **<font color='red'>Research for a Better Human-Centered World</font>**. If I have the chance, I will pursue a Ph.D. degree.
-
+I always pay attention to **Computer Graphics** and want to **<font color='red'>Research for a Better Human-Centered World</font>**. 
 
 Education
 ------
@@ -43,7 +44,7 @@ Experience
 ------
 * **Tao Technology, Alibaba** (Aug. 2021 - Now)
   * Computer graphics algorithm engineer intern
-  * Research on neural fur generation (related to **Domain Adaptation** and **Contrastive Learning**)
+  * Research on **Neural Fur Generation** (related to **Domain Adaptation** and **Contrastive Learning**) and **Offline Rendering**
   * Mentor: Gang Wang, Lumin Yang
 * **Vision and Cognition Lab**, Southeast University (April. 2018 - Now)
   * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com)
