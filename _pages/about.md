@@ -7,13 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a master student at [College of Automation](https://automation.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei.  I will join Alibaba as a computer graphics algorithm engineer after graduation.
+I'm a master student at [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei.  I will join Alibaba as a computer graphics algorithm engineer after graduation.
 
 My research interests are **<font color='red'>Computer Graphics</font>** and Computer Vision. Besides, I'm also interested in Disentangled Representation Learning and Conditional Generation. My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (9.2k followers). I have created **50+** graphics/vision-related notes or answers with **870k readings, 14k favorites and likes**.
-    
-I was selected as a member of [The International AI Training  Program For Chinese Universities, 2018](http://pkunews.pku.edu.cn/xwzh/2018-04/04/content_301782.htm) (300 out of 7000 people). I used to be a director of Machine Learning Group and Undergraduate Group in Big Data Lab, College of Artificial Intelligence, Nanjing Agricultural University.    
 
-I always pay attention to **Computer Graphics** and want to **Research for a Better Human-Centered World**. 
+I always pay attention to **Computer Graphics** and believe "nature is a great artist and try to reproduce some of its art work with computers". **-D: Computer Graphics is Awesome!**
 
 Education
 ------
