@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a master student at [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei.  My research interests are **<font color='red'>Computer Graphics</font>** and Computer Vision. I will join Alibaba as a computer graphics algorithm engineer after graduation.
+I'm a master student at [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei.  My research interests are **<font color='red'>Computer Graphics</font>** and Computer Vision. I will join Alibaba as a Computer Graphics Algorithm Engineer after graduation.
 
 My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (9.2k followers). I have created **50+** graphics/vision-related notes or answers with **870k readings, 14k favorites and likes**.
 
