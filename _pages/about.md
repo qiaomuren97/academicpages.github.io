@@ -18,8 +18,7 @@ Education
 * **M.Eng. in Pattern Recognition**, [Southeast University](https://www.seu.edu.cn), Sep. 2019 - Jun. 2022 (expected) 
   * Grade: 92.23/100, **rank: 10/135**
   * Microsoft Student Club, Southeast University
-    * Vice President, Jun. 2020 - Jun. 2021 
-    * Member, Oct. 2019 - Jun. 2020
+    * Vice President (Jun. 2020 - Jun. 2021) & Member (Oct. 2019 - Jun. 2020)
 
 * **B.Eng. in Electronic Information Science and Technology**, [Nanjing Agricultural University](http://www.njau.edu.cn), Sep. 2015 - Jun. 2019
   * Grade: 90.73/100, **rank: 4/109**
