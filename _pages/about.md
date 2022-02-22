@@ -11,7 +11,7 @@ I'm a master student at [Southeast University](https://www.seu.edu.cn). I am adv
 
 My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (9.8k followers). I have created **50+** graphics/vision-related notes or answers with **1040k readings, 18k favorites and likes**.
 
-I always pay attention to **Computer Graphics** and believe "nature is a great artist and try to reproduce some of its art work with computers". **-D: Computer Graphics is Awesome!**
+I always pay attention to **Computer Graphics** and believe **<font color='red'>"Nature is a great artist and try to reproduce some of its art work with computers"</font>**. **-D: Computer Graphics is Awesome!**
 
 Education
 ------
