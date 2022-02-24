@@ -118,7 +118,7 @@ Honors & Awards (selected)
 Service
 ------
 * Reviewer, IEEE Transactions on Affective Computing (SCI, CCF B)
-* Reviewer, Chinese Translation Edition of "Real-Time Rendering 4th" (will coming soon)
+* Reviewer, [Chinese Edition](https://zhuanlan.zhihu.com/p/418196347) of "Real-Time Rendering 4th" (will coming soon)
 * Grader/TA, GAMES 101: Introduction to Computer Graphics (Spring 2021) taught by [Prof. Ling-Qi Yan](http://sites.cs.ucsb.edu/~lingqi/)
 
 
