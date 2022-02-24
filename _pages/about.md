@@ -115,10 +115,20 @@ Honors & Awards (selected)
 * **The First Class Scholarship** of Nanjing Agricultural University, 2016, 2017, 2018
 
 
+Service
+------
+* **The First Class Scholarship** of Southeast University (Top 8%), 2020 
+* **Outstanding Undergraduate Thesis Award** of Nanjing Agricultural University (Top 1 out of 300 students), 2019
+* **Outstanding Student of Jiangsu Province (1 out of 5000 students)**, 2018
+* **Gold Medal** of [International Genetically Engineered Machine Competition](https://igem.org/Main_Page), 2017
+* **The First Class Scholarship** of Nanjing Agricultural University, 2016, 2017, 2018
+
+
 Talks
 ------
-* **'Agricultural AI'**, China R Conference, 2018
-  * Organized by School of Statistics, Renmin University of China and Guanghua School of Management, Peking University
+* Reviewer, IEEE Transactions on Affective Computing (SCI, CCF B)
+* Reviewer, Chinese Translation Edition of "Real-Time Rendering 4th" (coming soon)
+* Grader/TA, GAMES 101: Introduction to Computer Graphics (Spring 2021) taught by [Prof. Ling-Qi Yan](http://sites.cs.ucsb.edu/~lingqi/)
 
 
 Misc
