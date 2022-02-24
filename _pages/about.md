@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a master student at [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei.  My research interests are **<font color='red'>Computer Graphics</font>** and Computer Vision. I will join Alibaba as a Computer Graphics Algorithm Engineer after graduation.
 
-My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (9.8k followers). I have created **50+** graphics/vision-related notes or answers with **1040k readings, 18k favorites and likes**.
+My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (9.9k followers). I have created **50+** graphics/vision-related notes or answers with **1,040k readings, 18k favorites and likes**.
 
 I always pay attention to **Computer Graphics** and believe **<font color='red'>"Nature is a great artist and try to reproduce some of its art work with computers"</font>**. **-D: Computer Graphics is Awesome!**
 
@@ -134,6 +134,7 @@ Misc
 ------
 I am a huge fan of sports, such as Men’s Physique(健体), Basketball, Running and so on. I want to try more sports, like surfing, rock climbing, etc. I am also full of interest in photography, food and many other things.
 * Some milestones: 
+  * Half Deadlift(半程硬拉): 230kg\*2 (02/20/2022)
   * Deadlift(硬拉): 180kg (06/27/2021), 170kg (05/20/2021)
   * Squat(深蹲): 130kg\*4 (08/21/2021), 120kg\*2 (12/30/2020)
   * Bench press(卧推): 90kg (08/15/2021)
