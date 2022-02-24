@@ -124,7 +124,7 @@ Service
 
 Talk & Poster
 ------
-* [Poster ]**'Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.'**, International Conference on Image and Graphics(ICIG), 2021.
+* [Poster ] **'Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.'**, International Conference on Image and Graphics(ICIG), 2021.
   
 * [Talk] **'Agricultural AI'**, China R Conference, 2018
   * Organized by School of Statistics, Renmin University of China and Guanghua School of Management, Peking University
