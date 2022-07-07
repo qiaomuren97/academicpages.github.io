@@ -89,23 +89,27 @@ Projects
 
 * **Machine Learning and Its applications** (Aug. 2016 - Aug. 2019)
   * Under the supervision of [Prof. Xiuguo Zou](http://ai.njau.edu.cn/info/1059/1172.htm)
-  * Proposed a method to identify tea diseases based on spectral reflectance with machine learning [2]
-  * Developed a method to find the reasonable data needed in the Supervisory Control and Data Acquisition (SCADA) system [3]
-  * Designed a mobile IoT device to detect whether the apple is rotten or not according to gas information with the help of machine learning algorithms
+  * Designed a mobile IoT device to detect whether the apple is rotten or not according to gas information with the help of machine learning algorithms [2]
+  * Proposed a method to identify tea diseases based on spectral reflectance with machine learning [3]
+  * Developed a method to find the reasonable data needed in the Supervisory Control and Data Acquisition (SCADA) system [4]
+  
 
 Publications
 ------
-* **Graphics**
+* **Graphics**         
 [1]  **<font color='red'> [New] </font>** *Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-87361-5_44)     
    **Q. Ren**, H. Wei, [Y. Wang](https://yangangwang.com)   
    **International Conference on Image and Graphics(ICIG)**, 2021.
-* **Machine Learning**
-[2] *Identification of Tea Diseases based on Spectral Reflectance and Machine Learning.* [[Paper]](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf)           
+* **Machine Learning**                      
+[2] *Design of Electronic Nose Detection System for Apple Quality Grading Based on Computational Fluid Dynamics Simulation and K-Nearest Neighbor Support Vector Machine.*       
+[X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), C. Wang, M. Luo, **Q. Ren**, Y. Liu, S. Zhang, Y. Bai, J. Meng, W. Zhang, Steven W. Su           
+**Sensors**, v22, n8, 2022.          
+[3] *Identification of Tea Diseases based on Spectral Reflectance and Machine Learning.* [[Paper]](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf)           
   [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
-  **Journal of Information Processing Systems**, v 16, n 2, p 435-446, 2020.    
-[3] *An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN.* [[Paper]](https://www.koreascience.or.kr/article/JAKO201932569395125.pdf)         
+  **Journal of Information Processing Systems**, v 16, n 2, p 435-446, 2020.                         
+[4] *An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN.* [[Paper]](https://www.koreascience.or.kr/article/JAKO201932569395125.pdf)         
   H. Cao, **Q. Ren**, [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), S. Zhang, Y. Qian   
-  **Journal of Information Processing Systems**, v 15, n 5, p 1156-1170, 2019.     
+  **Journal of Information Processing Systems**, v 15, n 5, p 1156-1170, 2019.          
 
 
 Honors & Awards (selected)
