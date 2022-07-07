@@ -97,18 +97,14 @@ Projects
 Publications
 ------
 * **Graphics**         
-[1]  **<font color='red'> [New] </font>** *Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-87361-5_44)     
-   **Q. Ren**, H. Wei, [Y. Wang](https://yangangwang.com)   
+[1] *Hair Salon: A Geometric Example-based Method to Generate 3D Hair Data.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-87361-5_44)      **Q. Ren**, H. Wei, [Y. Wang](https://yangangwang.com)   
    **International Conference on Image and Graphics(ICIG)**, 2021.
 * **Machine Learning**                      
-[2] *Design of Electronic Nose Detection System for Apple Quality Grading Based on Computational Fluid Dynamics Simulation and K-Nearest Neighbor Support Vector Machine.*       
-[X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), C. Wang, M. Luo, **Q. Ren**, Y. Liu, S. Zhang, Y. Bai, J. Meng, W. Zhang, Steven W. Su           
+[2] *Design of Electronic Nose Detection System for Apple Quality Grading Based on Computational Fluid Dynamics Simulation and K-Nearest Neighbor Support Vector Machine.* [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), C. Wang, M. Luo, **Q. Ren**, Y. Liu, S. Zhang, Y. Bai, J. Meng, W. Zhang, Steven W. Su           
 **Sensors**, v22, n8, 2022.          
-[3] *Identification of Tea Diseases based on Spectral Reflectance and Machine Learning.* [[Paper]](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf)           
-  [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
+[3] *Identification of Tea Diseases based on Spectral Reflectance and Machine Learning.* [[Paper]](https://www.koreascience.or.kr/article/JAKO202013965594423.pdf) [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), **Q. Ren**, H. Cao, Y. Qian, S. Zhang  
   **Journal of Information Processing Systems**, v 16, n 2, p 435-446, 2020.                         
-[4] *An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN.* [[Paper]](https://www.koreascience.or.kr/article/JAKO201932569395125.pdf)         
-  H. Cao, **Q. Ren**, [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), S. Zhang, Y. Qian   
+[4] *An Optimization Method for the Calculation of SCADA Main Grid's Theoretical Line Loss Based on DBSCAN.* [[Paper]](https://www.koreascience.or.kr/article/JAKO201932569395125.pdf) H. Cao, **Q. Ren**, [X. Zou](http://ai.njau.edu.cn/info/1059/1172.htm), S. Zhang, Y. Qian   
   **Journal of Information Processing Systems**, v 15, n 5, p 1156-1170, 2019.          
 
 
