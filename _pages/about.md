@@ -1,4 +1,4 @@
----
+ ---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -7,16 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a master student at [Southeast University](https://www.seu.edu.cn). I am advised by [Prof. Yangang Wang](https://yangangwang.com) and Prof. Haikun Wei.  My research interests are **<font color='red'>Computer Graphics</font>** and Computer Vision. I will join Alibaba as a Computer Graphics Algorithm Engineer after graduation.
+I will join Alibaba as a Computer Graphics Algorithm Engineer. I received my master degree in 2022 from [Southeast University](https://www.seu.edu.cn), advised by [Prof. Yangang Wang](https://yangangwang.com). My research interests are **<font color='red'>Computer Graphics</font>** and Computer Vision. 
 
-My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (10k+ followers). I have created **50+** graphics/vision-related notes or answers with **1,110k readings, 19k favorites and likes**.
+My blogs can be found in [Zhihu](https://www.zhihu.com/people/AlbertRen) (10k+ followers). I have created **50+** graphics/vision-related notes or answers with **1,200k readings, 20k favorites and likes**.
 
 I always pay attention to **Computer Graphics** and believe **<font color='red'>"Nature is a great artist and try to reproduce some of its art work with computers"</font>**. **-D: Computer Graphics is Awesome!**
 
 Education
 ------
-* **M.Eng. in Pattern Recognition**, [Southeast University](https://www.seu.edu.cn), Sep. 2019 - Jun. 2022 (expected) 
+* **M.Eng. in Pattern Recognition**, [Southeast University](https://www.seu.edu.cn), Sep. 2019 - Jun. 2022
   * Grade: 92.23/100, **rank: 10/135**
+  * Thesis: **Research on Fast Fur Generation**
   * Microsoft Student Club, Southeast University
     * Vice President (Jun. 2020 - Jun. 2021) & Member (Oct. 2019 - Jun. 2020)
 
@@ -40,7 +41,7 @@ Experience
   * Computer graphics algorithm engineer intern
   * Research on **Neural Fur Generation** (related to Domain Adaptation and Contrastive Learning) and **Offline Rendering**
   * Mentor: Gang Wang, Lumin Yang, Yan Zhang
-* **Vision and Cognition Lab**, Southeast University (April. 2018 - Now)
+* **Vision and Cognition Lab**, Southeast University (April. 2018 - Jun. 2022)
   * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com)
   * Research on Computer Graphics and Computer Vision
     * **3D Reconstruction**, especially single-view methods
@@ -58,7 +59,7 @@ Experience
 
 Projects
 ------
-* **Hair Modeling and Rendering** (Jun. 2019 - Now)
+* **Hair Modeling and Rendering** (Jun. 2019 - Jun. 2022)
   * Under the supervision of [Prof. Yangang Wang](https://yangangwang.com)
   * Proposed a geometric method to generate 3D hair data according to the reference hair model [1]
   * Explored the representation of hair model in deep learning and the interpretability in the latent space of neural networks
